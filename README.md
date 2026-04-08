@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/26575137/README.md)
 # Ananke — Ollama Coding Agent
 
 > *Ananke — goddess of inevitability, necessity, and fate. She will get it done.*
