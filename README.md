@@ -5,6 +5,9 @@
 
 A local **coding agent** that runs in your terminal, is using [Ollama](https://ollama.com). Give it a task in plain English — it reads your project, thinks, writes files, runs commands, and loops until the job is done. All on your own machine. No cloud, no API costs, no data leaving your system.
 
+### Download
+Head to the [**Releases**](../../releases) page and download the latest
+
 ---
 
 ## Demo
